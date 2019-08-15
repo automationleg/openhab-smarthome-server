@@ -1,0 +1,6 @@
+[submodule "vm-provisioning"]
+	path = vm-provisioning
+	url = git@github.com:automationleg/vm-provisioning.git
+[submodule "smarthome-tests"]
+	path = smarthome-tests
+	url = git@github.com:automationleg/smarthome-tests.git
