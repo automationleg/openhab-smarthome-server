@@ -1,6 +1,8 @@
 [submodule "smarthome-provision"]
 	path = smarthome-provision
 	url = git@github.com:automationleg/smarthome-provision.git
+	branch = master
 [submodule "smarthome-tests"]
 	path = smarthome-tests
 	url = git@github.com:automationleg/smarthome-tests.git
+	branch = master
